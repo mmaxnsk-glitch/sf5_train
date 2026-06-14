@@ -11,7 +11,6 @@ engines:
       Threads: 2                          # Max CPU threads the engine can use.
       Hash: 128                           # Max memory (in megabytes) the engine can allocate.
       Move Overhead: 200                  # Increase if your bot flags games too often.
-      Skill Level: 7
     limits:                               # Limits that end the move calculation early.
 #     time: 5.0                           # Max time per move in seconds.
 #     depth: 26                           # Max depth per move.
